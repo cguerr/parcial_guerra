@@ -4,7 +4,9 @@ import React from "react";
 
 
 const Card = () => {
-  return <div>Hola, soy una tarjeta</div>;
+  return <div>
+   <h1>Hola, soy una tarjeta</h1> 
+    </div>;
 };
 
 
